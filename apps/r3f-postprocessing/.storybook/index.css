@@ -1,0 +1,14 @@
+html,
+body,
+#storybook-root {
+  height: 100%;
+}
+
+body,
+.sbdocs canvas {
+  background-color: #121212;
+}
+
+.sbdocs canvas {
+  min-height: 20rem;
+}

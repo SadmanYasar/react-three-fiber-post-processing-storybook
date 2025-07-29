@@ -1,4 +1,6 @@
-# Sy17
+# React Three Fiber Post Processing Storybook
+
+### An attempt to create a storybook version of [pmndrs postprocessing docs](https://react-postprocessing.docs.pmnd.rs/introduction). Got tired of clicking broken codesandbox links.
 
 <a alt="Nx logo" href="https://nx.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/nrwl/nx/master/images/nx-logo.png" width="45"></a>
 

@@ -6,5 +6,12 @@
     {
       "path": "./apps/r3f-postprocessing"
     }
-  ]
+  ],
+  "ts-node": {
+    "compilerOptions": {
+      "module": "commonjs",
+      "moduleResolution": "node10",
+      "customConditions": null
+    }
+  }
 }
