@@ -2926,6 +2926,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@pmndrs/assets@npm:^1.7.0":
+  version: 1.7.0
+  resolution: "@pmndrs/assets@npm:1.7.0"
+  checksum: 10c0/3dd0093c710209453258f4dac3e9a03214ba30c69e836af09665c6f9ea3fe66f68acbf90fd5a8e92fd3ea053666d1c524bfbc7f1f29a99ad71bc50fc29bc9ac7
+  languageName: node
+  linkType: hard
+
 "@polka/url@npm:^1.0.0-next.24":
   version: 1.0.0-next.29
   resolution: "@polka/url@npm:1.0.0-next.29"
@@ -3825,6 +3832,8 @@ __metadata:
 "@sy17/r3f-postprocessing@workspace:apps/r3f-postprocessing":
   version: 0.0.0-use.local
   resolution: "@sy17/r3f-postprocessing@workspace:apps/r3f-postprocessing"
+  dependencies:
+    "@pmndrs/assets": "npm:^1.7.0"
   languageName: unknown
   linkType: soft
 
